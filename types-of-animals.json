@@ -1,0 +1,7 @@
+{
+  "type": "Quiz",
+  "title": "Coding animals",
+  "points": 20,
+  "question": "Which domestic animal is most likely to become a programmer?",
+  "answer": "Cat"
+}
